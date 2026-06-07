@@ -1,5 +1,5 @@
 # VitaLib Enhanced — Documentation
-**Enhanced Edition v3.0**
+**Demo v3.0**
 
 ---
 
